@@ -1,0 +1,9 @@
+label,estimate_total_09,race_pct_pop_09,estimate_total_14,race_pct_pop_14,estimate_total_19,race_pct_pop_19,estimate_total_24,race_pct_pop_24
+American Indian and Alaska Native alone,8.981,0.00396868183730393,0,0,0,0,0,0
+Asian alone,2.9810000000000003,0.00131729657688487,0,0,36,0.01593625498007968,0,0
+Black or African American alone,2211.215,0.9771304764362555,2031,0.9694510739856802,2188,0.9685701637892873,1336,0.9515669515669516
+Native Hawaiian and Other Pacific Islander alone,0,0,0,0,0,0,0,0
+Some other race alone,0,0,0,0,0,0,0,0
+"Two or more races Two races excluding Some other race, and three or more races",7.859000000000001,0.0034728727936055664,0,0,2,8.853474988933156e-4,0,0
+Two or more races Two races including Some other race,0,0,0,0,0,0,0,0
+White alone,31.932000000000002,0.014110672355950241,64,0.03054892601431981,33,0.014608233731739707,68,0.04843304843304843

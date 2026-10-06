@@ -1,0 +1,4 @@
+# 2026-09-22  derived by R/js_geography.R
+# share of 2000-vintage tract 24510100400 population falling inside the
+# 2020-vintage tract 24510100100 footprint, apportioned with 2010 blocks
+0.2711

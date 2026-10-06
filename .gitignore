@@ -1,0 +1,9 @@
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+.Renviron
+api_key.txt
+
+# Census replicate-weight downloads (~550MB), fetched on the first run
+data/
